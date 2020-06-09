@@ -1,38 +1,37 @@
 # MVC_PiePHP
+## Welcome to MVC_PiePHP!
 
-## Bienvenue sur MVC_PiePHP! 
+### The goal of this web project is to initiate learning of frameworks by recoding the first functionalities,
+### such as a router, autoloader and render.
+#### A cleaner URL is not negligible in passing!
+#### I will content myself here with presenting the project in its form, but I will be delighted to discuss the code with you,
+#### and possible developments :)
 
-### Le but de ce projet web est d'amorcer l'apprentissage des frameworks en recodant les fonctionnalitées premières, 
-### telle qu'un routeur, un autoloadeur et un render.
-#### Une URL plus propre n'est pas négligeable au passage !
-#### Je me contenterai ici de présenté brievement le projet dans sa forme, mais je serai ravi d'échanger avec vous sur le code,
-#### et les évolutions possibles :)
-
-#### Pour testé concrètement le resultat, un petit site web associé avec une base de donnnées de cinéma ( films + membres)
-##### Quelques animations sont disponible en GSAP ( Greesocks Animation)
+#### To concretely test the result, a small website associated with a cinema database (films + members)
+##### Some animations are available in GSAP (Greesocks Animation)
 
 
-###### La page d'accueil se présente donc sous forme de titres de films ( une dizaine) avec une recherche simple sur les titres.
+###### The home page is therefore in the form of film titles (ten) with a simple search on the titles.
 ![HomeConnected](https://user-images.githubusercontent.com/60606478/83678550-347ab080-a5de-11ea-9c89-1749727642f7.png)
 
 
-##### Au clique, les informations du film sont disponibles. Si un utilisateur est connecté, il peut ajouté
-##### le film à son historique et y laisser un avis.
+##### At the click, the information of the film is available. If a user is logged in, they can be added
+##### the film to its history and leave a review.
 ![DetailMovie](https://user-images.githubusercontent.com/60606478/83679002-f16d0d00-a5de-11ea-900c-68cf9b92f2df.png)
 
 
 
-##### En parlant des utilisateurs, voici justement la page d'inscription avec une gestion des erreurs en Ajax :)
+##### Speaking of users, here is the registration page with Ajax error handling :)
 ![registerError](https://user-images.githubusercontent.com/60606478/83679574-e797d980-a5df-11ea-8565-92a12f178acc.png)
 
 
-##### Une fois connecté, l'utilisateur peut accéder à son profil et le modifier.
+##### Once logged in, the user can access and modify their profile.
 
 ![Profil](https://user-images.githubusercontent.com/60606478/83679635-08f8c580-a5e0-11ea-868c-073d6cc425cc.png)
 
-##### Il peut également choisir un abonnement, consulter son historique ou encore checker le dernier film qu'il a visionné.
+##### They can also choose a subscription, consult their history or even check the last film they watched.
 
-#### Ah, j'oubliai! Une page contenant tout les genres est accessible sans connexion :) 
+#### Ah, I forgot! A page containing all genres is accessible without connection :)
 
 ![AllKinds](https://user-images.githubusercontent.com/60606478/83679646-0dbd7980-a5e0-11ea-981b-8b95b2fe7fc2.png)
 

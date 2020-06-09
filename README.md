@@ -5,7 +5,7 @@
 ### such as a router, autoloader and render.
 #### A cleaner URL is not negligible in passing!
 #### I will content myself here with presenting the project in its form, but I will be delighted to discuss the code with you,
-#### and possible developments :)
+#### and possible improvements :)
 
 #### To concretely test the result, a small website associated with a cinema database (films + members)
 ##### Some animations are available in GSAP (Greesocks Animation)

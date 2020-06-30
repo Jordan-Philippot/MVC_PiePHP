@@ -12,18 +12,15 @@
 
 
 ###### The home page is therefore in the form of film titles (ten) with a simple search on the titles.
-![HomeConnected](https://user-images.githubusercontent.com/60606478/83678550-347ab080-a5de-11ea-9c89-1749727642f7.png)
-
+![moviePiephp](https://user-images.githubusercontent.com/60606478/86067518-564c4380-ba75-11ea-85eb-2bb7bf4946f1.png)
 
 ##### At the click, the information of the film is available. If a user is logged in, they can be added
 ##### the film to its history and leave a review.
-![DetailMovie](https://user-images.githubusercontent.com/60606478/83679002-f16d0d00-a5de-11ea-900c-68cf9b92f2df.png)
-
+![detailsMoviePiephp](https://user-images.githubusercontent.com/60606478/86067511-52b8bc80-ba75-11ea-829f-320da584a343.png)
 
 
 ##### Speaking of users, here is the registration page with Ajax error handling :)
-![registerError](https://user-images.githubusercontent.com/60606478/83679574-e797d980-a5df-11ea-8565-92a12f178acc.png)
-
+![loginPiephp](https://user-images.githubusercontent.com/60606478/86067516-54828000-ba75-11ea-8561-f9831ed4a80a.png)
 
 ##### Once logged in, the user can access and modify their profile.
 
@@ -33,5 +30,4 @@
 
 #### Ah, I forgot! A page containing all genres is accessible without connection :)
 
-![AllKinds](https://user-images.githubusercontent.com/60606478/83679646-0dbd7980-a5e0-11ea-981b-8b95b2fe7fc2.png)
-
+![kindsPiephp](https://user-images.githubusercontent.com/60606478/86067529-5c422480-ba75-11ea-8e8f-85ea7f7b6d25.png)

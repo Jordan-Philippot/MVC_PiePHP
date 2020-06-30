@@ -24,8 +24,7 @@
 
 ##### Once logged in, the user can access and modify their profile.
 
-![Profil](https://user-images.githubusercontent.com/60606478/83679635-08f8c580-a5e0-11ea-868c-073d6cc425cc.png)
-
+![profilPiephp](https://user-images.githubusercontent.com/60606478/86068114-c7402b00-ba76-11ea-9487-fa03d6a127da.png)
 ##### They can also choose a subscription, consult their history or even check the last film they watched.
 
 #### Ah, I forgot! A page containing all genres is accessible without connection :)
